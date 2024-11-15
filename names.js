@@ -2,7 +2,7 @@ console.log('user')
 
 const userName = {
     firstName : "Davide",
-    lastName : "Calabria",
+    lastName : "Rossi",
 }
 
 module.exports = userName

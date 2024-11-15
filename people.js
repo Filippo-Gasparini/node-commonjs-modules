@@ -1,5 +1,9 @@
 console.log('people.js')
 
 
-const {userName, hobbies} = require('people.js')
+const hobbies = require('./hobbies')
+console.log(hobbies)
+
+const userName = require('./names.js')
+console.log(userName)
 
