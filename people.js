@@ -7,3 +7,8 @@ console.log(hobbies)
 const userName = require('./names.js')
 console.log(userName)
 
+const utente = {
+    hobbies,
+    userName,
+} 
+console.log(utente)
