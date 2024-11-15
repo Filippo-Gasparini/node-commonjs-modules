@@ -1,4 +1,4 @@
-console.log('people.js')
+//console.log('people.js')
 
 
 const hobbies = require('./hobbies')
